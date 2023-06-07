@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp_1_2\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharp_1_2\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp_1_2\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp_1_2\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp_1_2\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp_1_2\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\CSharp_1_2\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\CSharp_1_2\Devoir_5_WepApp\Devoir_5_WepApp\obj\Debug\net7.0\Devoir_5_WepApp.RazorAssemblyInfo.cs
